@@ -782,14 +782,3 @@ WHERE client.branch_id IN (
   FROM branch
   WHERE branch.mgr_id = 102
 );
-
-
-
-    
-
-
-
-
-
-
-
